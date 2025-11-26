@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @danajoo01 and second account <a href="https://github.com/dngf0231" target="_blank">@dngf0231</a>
-- 👀 I’m interested in web developer and fullstack developer
+- 👋 Hi, I’m @danajoo01 and second account <a href="https://github.com/dngf0231" target="_blank">@dngf0231</a> (Private Project)
+- 👀 I’m interested in Web Developer and Software Engineer
 - 🌱 I’m currently learning tech and mobile development
-- 💞️ I’m looking to collaborate on project and availabe remote work
+- 💞️ I’m looking to collaborate on project, freelance and availabe remote work
 - 📫 How to reach me danajoo01@gmail.com
 
 <!---
